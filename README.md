@@ -1,2 +1,2 @@
-# Space_Shielding
-Git for Space Shielding project
+# Space_Shielding Project
+This git is for the Space Shielding proyect
