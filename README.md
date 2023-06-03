@@ -10,12 +10,13 @@ This git is for the Space Shielding project. Here you can find all the informati
   - Photos
 
 ## Work to do
+ - [ ] Translate existing files from Spanish to English
  - [ ] Add PCB_Top and PCB_Bottom 
  - [ ] Add the STM32 Code
  - [ ] Add the MATLAB codes used for analysis
  - [ ] Add the experimental data
  - [ ] Add the ANSYS simulation and CADs for the shield
- - [ ] A lot more of info I'm missing right now
+ - [ ] More photos of the complete process
 
 ## Space Shielding team
 Federico Olivero, Santiago Testa, Agustín Mazzocato, Rocío Santos, Carolina Ibañez, Mateo Javier Carriere, Matias Stamm, Gustavo Schmidt, and Julio Esteban
