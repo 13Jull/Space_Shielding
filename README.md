@@ -21,9 +21,6 @@ This git is for the Space Shielding project. Here you can find all the informati
 ## Space Shielding team
 Federico Olivero, Santiago Testa, Agustín Mazzocato, Rocío Santos, Carolina Ibañez, Mateo Javier Carriere, Matias Stamm, Gustavo Schmidt, and Julio Esteban
 
-
-
+**_Thanks to everyone who made this possible_**
 
    _This git is under development. Feel free to email me at julioesteban13@gmail.com if you have questions or need something you think I can provide._
- 
-   **_Thanks to everyone who made this possible_**
